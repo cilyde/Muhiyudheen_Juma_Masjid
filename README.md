@@ -106,4 +106,4 @@ See [PRIVACY\_POLICY.md](PRIVACY_POLICY.md) for full details.
 
 ## 6. Contact Us
 
-Questions? Email ** cilydestudios@gmail.com **.
+Questions? Email cilydestudios@gmail.com.
